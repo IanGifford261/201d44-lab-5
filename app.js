@@ -13,6 +13,7 @@ function sum(a, b) { //eslint-disable-line
     var message = 'The sum of ' + a + ' and ' + b + ' is ' + output + '.';
     return [output, message];
 }
+//testing
 
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
